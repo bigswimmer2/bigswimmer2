@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @bigswimmer2
-- 👀 I’m interested in Mobile Development and Cyber Security
-- 🌱 I’m currently learning Flutter
-- 💞️ I’m looking to collaborate on My Mobile App
+- 👀 I’m interested in Game Development and Cyber Security
+- 🌱 I’m currently learning Game Development
 - 📫 How to reach me Brettpinfold2@gmail.com
 
 <!---
